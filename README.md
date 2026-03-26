@@ -143,8 +143,8 @@ System Design            ██████████ 100%
 # 🤝 Connect With Me
 
 * 📧 Email: [bairagimanish_it@hotmail.com](mailto:bairagimanish_it@hotmail.com)
-* 💼 LinkedIn: (Add your link here)
-* 💻 GitHub: (Your profile)
+* 💼 LinkedIn: https://www.linkedin.com/in/manish-bairagi/
+* 💻 GitHub: https://github.com/ManishBairagi28
 
 ---
 
